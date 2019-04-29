@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/github-top10/static/js/runtime~main.6bf57e27.js"
   },
   {
-    "revision": "faaeb5721388d2f5675886170cadf698",
+    "revision": "7b1216f96f9be7054f36c05373c6d881",
     "url": "/github-top10/index.html"
   }
 ];
